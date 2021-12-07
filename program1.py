@@ -1,3 +1,5 @@
+# Вася
+
 def f():
     print('prosto print')
 
